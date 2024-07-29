@@ -6,7 +6,7 @@ A web application for generating invoices, built using React, provides an effici
 https://invoice-generator-react-nagraj-shankars-projects.vercel.app/
 
 ### Screenshot
-https://ibb.co/YDG8Rfj
+<a href="https://ibb.co/YDG8Rfj"><img src="https://i.ibb.co/4sxMm4N/Screenshot-98.png" alt="Screenshot-98" border="0" /></a>
 
 ### Installation
 
